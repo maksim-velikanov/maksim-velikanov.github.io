@@ -1,12 +1,24 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am working on deep learning theory in *AI Theory and Algorithms* group at [TII](https://www.tii.ae/ai-and-digital-science/our-research) and recently started PhD at [Ecole Polytechnique](https://www.polytechnique.edu/) under supervision of [Eric Moulines](https://en.wikipedia.org/wiki/%C3%89ric_Moulines). After first getting a physics education and trying to doing a little bit of reasearch on computational condenced matter theory, I got engaged by [Dmitry Yarotsky](https://yarotsky.info/) into trying to get theoretical insights into phenomena observed in the applications of ever-growing neural network models. At the moment, I focus on how spectral characterisitcs of neural networks can be used to describe thier ptraining trajectories and final performance. You can find more details at the [reasearch page](https://maksim-velikanov.github.io/reasearch/).
+
+Here is my [CV](https://maksim-velikanov.github.io/talks/) and you can reach me at *maksim.velikanov@tii.ae*.
+
+**Publications**
+1.
+1.
+1.
+1.
+1.
+1.
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
