@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am working on deep learning theory in *AI Theory and Algorithms* group at [TII](https://www.tii.ae/ai-and-digital-science/our-research) and recently started PhD at [Ecole Polytechnique](https://www.polytechnique.edu/) under supervision of [Eric Moulines](https://en.wikipedia.org/wiki/%C3%89ric_Moulines). I got a physics education at MIPT (bachelor degree) and Skoltech (maters's degree), where I did a little bit of reasearch on computational condenced matter theory. However, after that I got engaged by [Dmitry Yarotsky](https://yarotsky.info/) into trying to get theoretical insights into phenomena observed in the applications of ever-growing neural network models. At the moment, I focus on how spectral characterisitcs of neural networks can be used to describe their performance and training dynamics. 
+I am working on deep learning theory at [TII](https://www.tii.ae/ai-and-digital-science/our-research) while doing PhD at [Ecole Polytechnique](https://www.polytechnique.edu/) under the supervision of [Eric Moulines](https://en.wikipedia.org/wiki/%C3%89ric_Moulines). I got a physics education at MIPT (bachelor's degree) and Skoltech (maters' degree), where I did a little bit of research on computational condensed matter theory. However, after that I got engaged by [Dmitry Yarotsky](https://yarotsky.info/) in trying to theoretically explain some phenomena observed in the applications of ever-growing neural network models. At the moment, I focus on the relations between spectral characteristics of neural networks and their training dynamics. 
 
 <!--- You can find more details at the [research page](https://maksim-velikanov.github.io/research/). -->
 
