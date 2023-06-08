@@ -16,7 +16,7 @@ Here is my [CV](https://maksim-velikanov.github.io/files/CV.pdf) and you can rea
 
 Publications
 ------
-Titles of the selected papers are displayed with bold font.
+Titles of the **selected papers** are in bold.
 * M. Velikanov, D. Kuznedelev, D.Yarotsky. **A view of mini-batch SGD via generating functions: conditions of convergence, phase transitions, benefit from negative momenta**, 2023, *ICLR*. [[open review](https://openreview.net/forum?id=bzaPGEllsjE&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions)), [arxiv](https://arxiv.org/abs/2206.11124)] 
 * M. Velikanov & D.Yarotky. **Tight Convergence Rate Bounds for Optimization Under Power Law Spectral Conditions**, 2022, preprint. [[arxiv](https://arxiv.org/abs/2202.00992)] 
 * M. Velikanov, R. Kail, I. Anokhin, R. Vashurin, M. Panov, A. Zaytsev, D. Yarotsky. Embedded Ensembles: Infinite Width Limit and Operating Regimes, 2022, *AISTATS*. [[conference](https://proceedings.mlr.press/v151/velikanov22a.html), [arxiv](https://arxiv.org/abs/2202.12297)]
